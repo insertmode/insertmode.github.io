@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[INSERT MODE]]></title>
   <link href="http://insertmode.github.io/atom.xml" rel="self"/>
   <link href="http://insertmode.github.io/"/>
-  <updated>2014-05-09T13:47:04+02:00</updated>
+  <updated>2014-05-09T14:01:45+02:00</updated>
   <id>http://insertmode.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[insert mode]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
